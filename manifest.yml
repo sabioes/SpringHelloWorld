@@ -1,0 +1,6 @@
+---
+applications:
+- name: SpringHelloWorld
+  random-route: true
+  memory: 1G
+  path: target/shwdemo-0.0.1-SNAPSHOT.jar
